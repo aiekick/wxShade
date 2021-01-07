@@ -1,0 +1,24 @@
+[submodule "3rdparty/wxWidgets"]
+	path = 3rdparty/wxWidgets
+	url = https://github.com/aiekick/wxWidgets.git
+	branch = master
+[submodule "3rdparty/glad"]
+	path = 3rdparty/glad
+	url = https://github.com/Dav1dde/glad
+	branch = c
+[submodule "3rdparty/tinyxml2"]
+	path = 3rdparty/tinyxml2
+	url = https://github.com/leethomason/tinyxml2
+	branch = master
+[submodule "3rdparty/glm"]
+	path = 3rdparty/glm
+	url = https://github.com/g-truc/glm
+	branch = master
+[submodule "3rdparty/gif_h"]
+	path = 3rdparty/gif_h
+	url = https://github.com/charlietangora/gif-h.git
+	branch = master
+[submodule "3rdparty/kazmath"]
+	path = 3rdparty/kazmath
+	url = https://github.com/Kazade/kazmath
+	branch = master

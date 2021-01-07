@@ -30,3 +30,9 @@
 *.exe
 *.out
 *.app
+/icons/20x20/*.xpm
+/build
+/bin/lib
+/bin/bin
+/bin/include
+*.xpm

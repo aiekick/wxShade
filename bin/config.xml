@@ -1,0 +1,4 @@
+<CONFIG>
+<DIRECTORY type="assets" path="..\assets"/>
+<DIRECTORY type="shaders" path="..\shaders"/>
+</CONFIG>
