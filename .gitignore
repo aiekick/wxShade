@@ -36,3 +36,4 @@
 /bin/bin
 /bin/include
 *.xpm
+/bin/*.log
