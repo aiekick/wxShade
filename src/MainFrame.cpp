@@ -175,7 +175,6 @@ void MainFrame::InitControls()
 	
 	m_ribbonBar1->SetMinSize(wxSize(160, 140));
 	m_ribbonBar1->SetAutoLayout(true);
-
 	m_mgr.AddPane(m_ribbonBar1, wxAuiPaneInfo().
 		Top().
 		Name(wxT("Ribbon")).
